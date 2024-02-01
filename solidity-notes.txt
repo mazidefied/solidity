@@ -1,4 +1,4 @@
-What is solidity?
+WHAT IS SOLIDITY?
 soldity is an object oriented high level language for implementing smart contracts.
 It is a curly bracket language esigned t target the Ethereum Virtual Machine (EVM).
 It influenced by C++ , Python and Javascript.
