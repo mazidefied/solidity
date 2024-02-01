@@ -2,3 +2,8 @@ What is solidity?
 soldity is an object oriented high level language for implementing smart contracts.
 It is a curly bracket language esigned t target the Ethereum Virtual Machine (EVM).
 It influenced by C++ , Python and Javascript.
+What are smart contracts?
+Smart contracts are programs which govern the behaviour of accounts within the Ethereum
+state. They are the building blocks of blockchain based applications and are called smart 
+contracts because tthey represent digital agreements and the code cannot change and thats a 
+feature of the solidity programming language once it is put on the blockchain.
