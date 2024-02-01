@@ -2,7 +2,7 @@
 pragma solidity ^0.8.19; //solidity version
 
 contract simpleCalculator {
-    uint256 public result;
+    uint256 public result; //declared result variable
 
     function add(uint256 a, uint256 b) external {
         result = a + b;
