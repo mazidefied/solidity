@@ -1,7 +1,7 @@
 WHAT IS SOLIDITY?
 soldity is an object oriented high level language for implementing smart contracts.
 It is a curly bracket language designed to target the Ethereum Virtual Machine (EVM).
-It influenced by C++ , Python and Javascript.
+It influenced by C++, Python and Javascript.
 
 
 WHAT ARE SMART CONTRACTS?
