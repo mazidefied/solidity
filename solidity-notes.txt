@@ -1,6 +1,6 @@
 WHAT IS SOLIDITY?
 soldity is an object oriented high level language for implementing smart contracts.
-It is a curly bracket language esigned t target the Ethereum Virtual Machine (EVM).
+It is a curly bracket language designed to target the Ethereum Virtual Machine (EVM).
 It influenced by C++ , Python and Javascript.
 
 
@@ -16,3 +16,25 @@ USE CASES FOR SOLIDITY SMART CONTRACTS
 -Non Fungible Tokens (NFTs)
 -Decentralized Finance (DeFi) - it can be used to develop DeFi applications such as decentralized exchanges,
                                 credit and lending platforms, prediction markets etc like lending and saving
+
+VARIABLES IN SOLIDITY 
+Variables are essentially holders for different values.It is a container that holds a value that can be changed during or manipulated during the program's runtime or
+execution.Solidity is a statically typed language which means you have to declare the variable type anytime you are declaring a 
+variable and that type should not change. Each declared variable always have a default value based on its type. 
+This therefore implies that in solidity, is no concept of "undefined" or "null" 
+
+Types of variables in solidity
+-State variable:
+ These are variables whos values are permanently stored in a contract storage outside all functions.
+-Local Variable:
+ These are variables whose values are only available within the function were it is defined. This simply means that the variable was declared inside a function.
+ As a result, local variables can only be called within that function.
+-Global Variable:
+ These are special variables which exist in global workspace and provide information about the blockchain and transaction
+ properties. They are like special containers that hold important information about the ethereum blockchain. Thesse variables do not need to be declared but
+ can be accessed from any art of a smart contract and are often used to get information about the current state of the blockchain.
+
+Rules for working with Variables In Solidity
+- Do not usse any of the solidity reserved keywords as a variable name. 
+- Solidity variable names must not start with a numeral (0-9). They must begin with a letter or an underscore.
+- Solidity variable names are case sensitive. Name and name are two different variables. 
