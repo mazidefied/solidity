@@ -16,8 +16,8 @@ contract simpleCalculator {
         result = a * b;
     }
 
-    function divide(uint256 a, uint256 b) external {
-        require(b != 0, "Cannot divide by zero");
+    function divide(uint256 a, uint256 b) external { //function to divide 
+        require(b != 0, "Cannot divide by zero"); //here I included error handling incase 0 is inputed as a variable for division 
         result = a / b;
     }
 }
