@@ -9,3 +9,10 @@ Smart contracts are programs which govern the behaviour of accounts within the E
 state. They are the building blocks of blockchain based applications and are called smart 
 contracts because tthey represent digital agreements and the code cannot change and thats a 
 feature of the solidity programming language once it is put on the blockchain.
+
+USE CASES FOR SOLIDITY SMART CONTRACTS
+-Tokens: So thats one of the beauty of smart cotnracts. You can create a crypto currency 
+         without creating a brand new blockchain.
+-Non Fungible Tokens (NFTs)
+-Decentralized Finance (DeFi) - it can be used to develop DeFi applications such as decentralized exchanges,
+                                credit and lending platforms, prediction markets etc like lending and saving
