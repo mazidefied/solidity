@@ -8,11 +8,11 @@ contract simpleCalculator {
         result = a + b;
     }
 
-    function subtract(uint256 a, uint256 b) external {
+    function subtract(uint256 a, uint256 b) external { //function to subtract 
         result = a - b;
     }
 
-    function multiply(uint256 a, uint256 b) external {
+    function multiply(uint256 a, uint256 b) external { //function to multiply 
         result = a * b;
     }
 
