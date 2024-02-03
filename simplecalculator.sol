@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MIT
+// This is a simple calculator created using both a state variable and local variable
 pragma solidity ^0.8.19; //solidity version
 
 contract simpleCalculator {
