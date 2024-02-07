@@ -15,8 +15,8 @@ contract ifelse {
    //         return 0;
      //   } 
        //     return 1;
-
-       //now i tried to implement the ifelse in a single line of code
+// you can use the above block of code
+       //now i tried to implement the ifelse in a single line of code. the line below does the same thing as the commnted block of code above
     return x < 10?1:2; // if x is less than 10, the function will return 1, else it will return 2
     }
 //just another implementation to be sure
